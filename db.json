@@ -1,0 +1,34 @@
+{
+  "maintrailer": [
+	{
+		"id": 0,
+		"name": "Tenet",
+		"category": "Drama",
+	  "cardimage": "https://davidvandenpol.nl/trailer/trailertenet.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Peninsula",
+		"category": "Horror",
+	  "cardimage": "https://davidvandenpol.nl/trailer/trailerpeninsula.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Relic",
+		"category": "Horror",
+		"cardimage": "https://davidvandenpol.nl/trailer/trailerrelic.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Trolls",
+		"category": "Animation",
+		"cardimage": "https://davidvandenpol.nl/trailer/trailertrolls.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Unhinged",
+		"category": "Thriller",
+		"cardimage": "https://davidvandenpol.nl/trailer/trailerunhinged.jpg"
+	}
+]
+}
